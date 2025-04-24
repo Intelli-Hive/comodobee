@@ -1,9 +1,9 @@
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png"
 import Carousel from 'react-multi-carousel';
-import img1 from '../assets/img/haber1.png';
-import img2 from '../assets/img/haber2.png';
-import img3 from '../assets/img/haber3.png';
+import img1 from '../assets/img/haber1.jpg';
+import img2 from '../assets/img/haber2.jpg';
+import img3 from '../assets/img/haber3.jpg';
 
 export const Skills = () => {
   const responsive = {
